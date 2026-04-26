@@ -1901,15 +1901,15 @@ function App() {
             <div className="footerCol">
               <div className="footerHead">Contact</div>
               <div className="footerLine">📍 Pune, Maharashtra, India</div>
-              <div className="footerLine">📞 +91 78410 01111</div>
-              <div className="footerLine">✉️ aeromatcl@gmail.com</div>
+              <div className="footerLine">📞 +91 78410 xxxxx</div>
+              <div className="footerLine">✉️ aeromat@gmail.com</div>
               <div className="footerLine">🌐 aeromat.in</div>
             </div>
           </div>
 
           <div className="footerBar">
             <div className="container footerBarInner">
-              <div>© 2025 Aeromat Creative Labs Pvt. Ltd. | All Rights Reserved | DGCA Compliant Drone Operator</div>
+              <div>© 2025 Aeromat Creative Ltd. | All Rights Reserved | DGCA Compliant Drone Operator</div>
             </div>
           </div>
         </section>
